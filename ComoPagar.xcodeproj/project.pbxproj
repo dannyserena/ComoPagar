@@ -14,6 +14,7 @@
 		F6FC3EA91D062DD100665608 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F6FC3EA71D062DD100665608 /* LaunchScreen.storyboard */; };
 		F6FC3EB41D062DD100665608 /* ComoPagarTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6FC3EB31D062DD100665608 /* ComoPagarTests.swift */; };
 		F6FC3EBF1D062DD100665608 /* ComoPagarUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6FC3EBE1D062DD100665608 /* ComoPagarUITests.swift */; };
+		F6FC3ECD1D06470200665608 /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6FC3ECC1D06470200665608 /* ResultViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		F6FC3EBA1D062DD100665608 /* ComoPagarUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ComoPagarUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F6FC3EBE1D062DD100665608 /* ComoPagarUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComoPagarUITests.swift; sourceTree = "<group>"; };
 		F6FC3EC01D062DD100665608 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F6FC3ECC1D06470200665608 /* ResultViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				F6FC3EA51D062DD100665608 /* Assets.xcassets */,
 				F6FC3EA71D062DD100665608 /* LaunchScreen.storyboard */,
 				F6FC3EAA1D062DD100665608 /* Info.plist */,
+				F6FC3ECC1D06470200665608 /* ResultViewController.swift */,
 			);
 			path = ComoPagar;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			files = (
 				F6FC3EA11D062DD100665608 /* ViewController.swift in Sources */,
 				F6FC3E9F1D062DD100665608 /* AppDelegate.swift in Sources */,
+				F6FC3ECD1D06470200665608 /* ResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

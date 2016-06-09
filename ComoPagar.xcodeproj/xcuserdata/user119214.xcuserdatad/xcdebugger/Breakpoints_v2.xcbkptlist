@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ComoPagar/ResultViewController.swift"
+            timestampString = "486952140.383582"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "ResultViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ComoPagar.ResultViewController.result.setter : Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "ComoPagar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user119214/Desktop/ComoPagar/ComoPagar/ResultViewController.swift"
+                  timestampString = "487123558.293125"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "161">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ComoPagar.ResultViewController.init (style : __C.UITableViewStyle) -&gt; ComoPagar.ResultViewController"
+                  moduleName = "ComoPagar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user119214/Desktop/ComoPagar/ComoPagar/ResultViewController.swift"
+                  timestampString = "487123558.293375"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "146">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ComoPagar.ResultViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; ComoPagar.ResultViewController"
+                  moduleName = "ComoPagar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user119214/Desktop/ComoPagar/ComoPagar/ResultViewController.swift"
+                  timestampString = "487123558.293629"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "258">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ComoPagar.ResultViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;ComoPagar.ResultViewController&gt;"
+                  moduleName = "ComoPagar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user119214/Desktop/ComoPagar/ComoPagar/ResultViewController.swift"
+                  timestampString = "487123558.293873"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "146">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ComoPagar/ViewController.swift"
+            timestampString = "487123302.243846"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "calculate()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
